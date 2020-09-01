@@ -22,8 +22,8 @@
 
 #### > Run : `python2 crack.py`
 
-#### USERNAME & PASSWORD :
-#### First STAR THIS REPOSITORY & [Send Message Here](https://fb.com/tahmid.rayat.official)
+#### USERNAME : `cra3kr`
+#### PASSWORD : `tahmidrayat`
 
 ## Single Command :
 ```
